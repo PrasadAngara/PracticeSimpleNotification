@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1085741004745",
+    "firebase_url": "https://practicesimplenotification.firebaseio.com",
+    "project_id": "practicesimplenotification",
+    "storage_bucket": "practicesimplenotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085741004745:android:23b8fa048532d73f199a18",
+        "android_client_info": {
+          "package_name": "com.example.practicesimplenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085741004745-10584iqd3shgdmc5trpjar51lj0t2m51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.practicesimplenotification",
+            "certificate_hash": "1c25fdc4b4bbd4bca2c31980ed70a16b600e1465"
+          }
+        },
+        {
+          "client_id": "1085741004745-k5kiq5vokfqmekmhltu5es2st66iuops.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkBPC_2fJlf5PqoFBBNyaFXm9oZz0jsy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085741004745-k5kiq5vokfqmekmhltu5es2st66iuops.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
